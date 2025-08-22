@@ -100,12 +100,12 @@ else{
 result1 = document.getElementsByClassName("dice")[0];
 result1.innerHTML=count1;
 result1.style.color = "#4ECCA3";
-result1.style.fontSize = "10rem";
+result1.style.fontSize = "6rem";
 
 result2 = document.getElementsByClassName("dice")[1];
 result2.innerHTML=count2;
 result2.style.color = "#4ECCA3";
-result2.style.fontSize = "10rem";
+result2.style.fontSize = "6rem";
 
 win = document.getElementById("win");
 win.style.color="#4ECCA3";
